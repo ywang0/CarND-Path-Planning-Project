@@ -12,6 +12,8 @@
 3. Compile: `cmake .. && make`
 4. Run it: `./path_planning`.
 
+[Sample Recording](driving.mp4)
+
 ---
 
 ### Objective: Create a path planner
